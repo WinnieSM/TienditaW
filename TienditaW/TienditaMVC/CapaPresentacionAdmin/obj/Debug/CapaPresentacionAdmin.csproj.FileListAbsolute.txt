@@ -71,3 +71,9 @@ D:\PROYECTOS\TienditaW\TienditaMVC\CapaPresentacionAdmin\bin\roslyn\System.Buffe
 D:\PROYECTOS\TienditaW\TienditaMVC\CapaPresentacionAdmin\bin\roslyn\System.Memory.dll
 D:\PROYECTOS\TienditaW\TienditaMVC\CapaPresentacionAdmin\bin\roslyn\System.Numerics.Vectors.dll
 D:\PROYECTOS\TienditaW\TienditaMVC\CapaPresentacionAdmin\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROYECTOS\TienditaW\TienditaMVC\CapaPresentacionAdmin\bin\CapaEntidad.dll
+D:\PROYECTOS\TienditaW\TienditaMVC\CapaPresentacionAdmin\bin\CapaNegocio.dll
+D:\PROYECTOS\TienditaW\TienditaMVC\CapaPresentacionAdmin\bin\CapaDatos.dll
+D:\PROYECTOS\TienditaW\TienditaMVC\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+D:\PROYECTOS\TienditaW\TienditaMVC\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+D:\PROYECTOS\TienditaW\TienditaMVC\CapaPresentacionAdmin\bin\CapaDatos.pdb

@@ -13,10 +13,11 @@ namespace CapaPresentacionAdmin
 
             bundles.Add(new Bundle("~/bundles/complementos").Include(
                        "~/Scripts/fontawesome/all.min.js",
+                       "~/Scripts/DataTables/jquery.dataTables.js",
+                       "~/Scripts/DataTables/dataTables.responsive.js",
                        "~/Scripts/scripts.js"
                        ));
-
-            
+            #region
             //bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
             //            "~/Scripts/jquery.validate*"));
 
@@ -24,12 +25,15 @@ namespace CapaPresentacionAdmin
             //// para la producción, use la herramienta de compilación disponible en https://modernizr.com para seleccionar solo las pruebas que necesite.
             //bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
             //            "~/Scripts/modernizr-*"));
+            #endregion
 
             bundles.Add(new Bundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap.bundle.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
+                      "~/Content/DataTables/css/jquery.dataTables.css",
+                      "~/Content/DataTables/css/responsive.dataTables.css",
                       "~/Content/site.css"));
         }
     }

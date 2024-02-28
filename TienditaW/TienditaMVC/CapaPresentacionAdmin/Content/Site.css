@@ -12872,3 +12872,12 @@ body {
 .c-green{
     color: #088272 !important;
 }
+.F_nunito{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+.card-header i {
+    filter: invert(36%) sepia(64%) saturate(6956%) hue-rotate(160deg) brightness(90%) contrast(94%) !important;
+}

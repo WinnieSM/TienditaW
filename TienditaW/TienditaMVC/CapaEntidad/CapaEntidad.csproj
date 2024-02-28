@@ -48,5 +48,10 @@
     <Compile Include="Rel_Ventas.cs" />
     <Compile Include="Usuarios.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="jquery.datatables">
+      <Version>1.10.15</Version>
+    </PackageReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
