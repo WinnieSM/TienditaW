@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ktt35JAd8hue4waUhiahHrw5H9BdfdhP3X285lWOS2MLbISarxyMdX9Zfsq37ap1NIBmQp0vj8MbfQo+REnIQQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROYECTOS\\TienditaW\\TienditaMVC\\CapaNegocio\\CapaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\winnie.solis.MUNICIPIO\\.nuget\\packages\\jquery\\1.7.0\\jquery.1.7.0.nupkg.sha512",
+    "C:\\Users\\winnie.solis.MUNICIPIO\\.nuget\\packages\\jquery.datatables\\1.10.15\\jquery.datatables.1.10.15.nupkg.sha512"
+  ],
+  "logs": []
+}
